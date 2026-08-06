@@ -16,7 +16,7 @@ This project analyzes the Telco Customer Churn dataset using SQL and Tableau to 
 
 ---
 
-## Tools Used
+## Tools
 
 - SQL
 - Tableau
